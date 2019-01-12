@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Helge Spieker"
-  avatar           : "images/helge.jpeg"
+  avatar           : "helge.jpeg"
   bio              : "Artificial Intelligence, Machine Learning, Constraint Programming, Software Testing, Software Engineering"
   location         : "Oslo, Norway"
   employer         : "Simula Research Laboratory"
