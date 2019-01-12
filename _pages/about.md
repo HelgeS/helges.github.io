@@ -39,6 +39,12 @@ Main Publications
 * [Conference] Spieker, H., Hagg, A., Asteroth, A., Meilinger, S., Jacobs, V., & Oslislo, A. (2015). Successive evolution of charging station placement. In 2015 International Symposium on Innovations in Intelligent SysTems and Applications (INISTA).
 [PDF](files/Spieker_et_al._-_2015_-_Successive_evolution_of_charging_station_placement.pdf)
 
+Service
+======
+Reviewer for [IST](https://www.journals.elsevier.com/information-and-software-technology), [STVR](https://onlinelibrary.wiley.com/journal/10991688)
+
+PC member of [AI Testing 2019](http://www.ieeeaitests.com/)
+
 Contact
 ======
 Please feel free to contact me by using the contact information in the side bar.
