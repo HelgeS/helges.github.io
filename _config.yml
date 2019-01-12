@@ -19,6 +19,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -81,7 +82,7 @@ analytics:
 author:
   name             : "Helge Spieker"
   avatar           : "profile.png"
-  bio              : "Artificial Intelligence, Machine Learning, Software Testing, Constraint Programming"
+  bio              : "Artificial Intelligence, Machine Learning, Constraint Programming, Software Testing, Software Engineering"
   location         : "Oslo, Norway"
   employer         : "Simula Research Laboratory"
   googlescholar    : "https://scholar.google.no/citations?user=SMvVsioAAAAJ&hl=en&oi=ao"
@@ -254,7 +255,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
