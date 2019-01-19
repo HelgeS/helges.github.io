@@ -22,7 +22,7 @@ Programming, and Machine Learning.
 Main Publications
 ======
 
-All publications can be found on [dblp](https://dblp.org/pid/169/5121) or [Google Scholar](https://scholar.google.com/citations?user=SMvVsioAAAAJ&hl=en&oi=ao).
+An up-to-date list of all publications can be found on [dblp](https://dblp.org/pid/169/5121) or [Google Scholar](https://scholar.google.com/citations?user=SMvVsioAAAAJ&hl=en&oi=ao).
 
 * **[Conference**] _Spieker, H._, Gotlieb, A., & Mossige, M. (2019). Rotational Diversity in Multi-Cycle Assignment Problems. In AAAI-19.
 [arXiv](https://arxiv.org/abs/1811.03496)
