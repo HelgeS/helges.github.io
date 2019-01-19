@@ -22,6 +22,8 @@ Programming, and Machine Learning.
 Main Publications
 ======
 
+All publications can be found on [dblp](https://dblp.org/pid/169/5121) or [Google Scholar](https://scholar.google.com/citations?user=SMvVsioAAAAJ&hl=en&oi=ao).
+
 * **[Conference**] _Spieker, H._, Gotlieb, A., & Mossige, M. (2019). Rotational Diversity in Multi-Cycle Assignment Problems. In AAAI-19.
 [arXiv](https://arxiv.org/abs/1811.03496)
 * **[Conference**] Gotlieb, A., Marijan, D., & _Spieker, H._ (2018). Stratified Constructive Disjunction and Negation in Constraint Programming. In International Conference on Tools with Artificial Intelligence.
@@ -36,7 +38,7 @@ Main Publications
 [arXiv](https://arxiv.org/abs/1811.04122)
 * **[Journal]** _Spieker, H._, Hagg, A., Gaier, A., Meilinger, S., & Asteroth, A. (2016). Multi-stage evolution of single- and multi-objective MCLP. Soft Computing, 1–14.
 [PDF](files/Spieker_et_al._-_2017_-_Multi-stage_evolution_of_single-_and_multi-objective_MCLP.pdf)
-* **[Conference]** _Spieker, Ha_., Hagg, A., Asteroth, A., Meilinger, S., Jacobs, V., & Oslislo, A. (2015). Successive evolution of charging station placement. In 2015 International Symposium on Innovations in Intelligent SysTems and Applications (INISTA).
+* **[Conference]** _Spieker, H._, Hagg, A., Asteroth, A., Meilinger, S., Jacobs, V., & Oslislo, A. (2015). Successive evolution of charging station placement. In 2015 International Symposium on Innovations in Intelligent SysTems and Applications (INISTA).
 [PDF](files/Spieker_et_al._-_2015_-_Successive_evolution_of_charging_station_placement.pdf)
 
 Service
