@@ -33,6 +33,7 @@ An up-to-date list of all publications can be found on [dblp](https://dblp.org/p
 [PDF](files/Spieker_Gotlieb_-_2018_-_Towards_Hybrid_Constraint_Solving_with_Reinforcement_Learning_and_Constraint-Based_Local_Search.pdf)
 * **[Conference]** Mossige, M., Gotlieb, A., _Spieker, H._, Meling, H., & Carlsson, M. (2017). Time-Aware Test Case Execution Scheduling for Cyber-Physical Systems. In Proceedings of the 23rd International Conference on Principles and Practice of Constraint Programming (Vol. 10416, pp. 387–404).
 [PDF](files/Mossige_et_al._-_2017_-_Time-Aware_Test_Case_Execution_Scheduling_for_Cyber-Physical_Systems.pdf) 
+[arXiv](https://arxiv.org/abs/1902.04627)
 * **[Conference]** _Spieker, H._, Gotlieb, A., Marijan, D., & Mossige, M. (2017). Reinforcement Learning for Automatic Test Case Prioritization and Selection in Continuous Integration. In Proceedings of 26th International Symposium on Software Testing and Analysis (ISSTA’17) (pp. 12--22). 
 [PDF](files/Spieker_et_al._-_2017_-_Reinforcement_Learning_for_Automatic_Test_Case_Prioritization_and_Selection_in_Continuous_Integration.pdf) 
 [arXiv](https://arxiv.org/abs/1811.04122)
@@ -43,7 +44,9 @@ An up-to-date list of all publications can be found on [dblp](https://dblp.org/p
 
 Service
 ======
-Reviewer for [IST](https://www.journals.elsevier.com/information-and-software-technology), [STVR](https://onlinelibrary.wiley.com/journal/10991688)
+Reviewer for [IST](https://www.journals.elsevier.com/information-and-software-technology), [STVR](https://onlinelibrary.wiley.com/journal/10991688).
+
+Member of Program Committee at [IEEE AI Testing 2019](http://ieeeaitests.com).
 
 Contact
 ======
