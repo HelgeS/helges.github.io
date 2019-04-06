@@ -37,7 +37,7 @@ An up-to-date list of all publications can be found on [dblp](https://dblp.org/p
 * **[Conference]** _Spieker, H._, Gotlieb, A., Marijan, D., & Mossige, M. (2017). Reinforcement Learning for Automatic Test Case Prioritization and Selection in Continuous Integration. In Proceedings of 26th International Symposium on Software Testing and Analysis (ISSTA’17) (pp. 12--22). DOI: 10.1145/3092703.3092709
 [PDF](files/Spieker_et_al._-_2017_-_Reinforcement_Learning_for_Automatic_Test_Case_Prioritization_and_Selection_in_Continuous_Integration.pdf) 
 [arXiv](https://arxiv.org/abs/1811.04122)
-* **[Journal]** _Spieker, H._, Hagg, A., Gaier, A., Meilinger, S., & Asteroth, A. (2016). Multi-stage evolution of single- and multi-objective MCLP: Successive placement of charging stations. Soft Computing (Vol. 21, Issue 17, pp. 4859-4872). DOI: 10.1007/s00500-016-2374-9
+* **[Journal]** _Spieker, H._, Hagg, A., Gaier, A., Meilinger, S., & Asteroth, A. (2017). Multi-stage evolution of single- and multi-objective MCLP: Successive placement of charging stations. Soft Computing (Vol. 21, Issue 17, pp. 4859-4872). DOI: 10.1007/s00500-016-2374-9
 [PDF](files/Spieker_et_al._-_2017_-_Multi-stage_evolution_of_single-_and_multi-objective_MCLP.pdf)
 * **[Conference]** _Spieker, H._, Hagg, A., Asteroth, A., Meilinger, S., Jacobs, V., & Oslislo, A. (2015). Successive evolution of charging station placement. In 2015 International Symposium on Innovations in Intelligent SysTems and Applications (INISTA). DOI: 10.1109/INISTA.2015.7276733
 [PDF](files/Spieker_et_al._-_2015_-_Successive_evolution_of_charging_station_placement.pdf)
