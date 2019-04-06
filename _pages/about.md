@@ -34,7 +34,7 @@ An up-to-date list of all publications can be found on [dblp](https://dblp.org/p
 * **[Conference]** Mossige, M., Gotlieb, A., _Spieker, H._, Meling, H., & Carlsson, M. (2017). Time-Aware Test Case Execution Scheduling for Cyber-Physical Systems. In Proceedings of the 23rd International Conference on Principles and Practice of Constraint Programming (Vol. 10416, pp. 387–404). DOI: 10.1007/978-3-319-66158-2_25
 [PDF](files/Mossige_et_al._-_2017_-_Time-Aware_Test_Case_Execution_Scheduling_for_Cyber-Physical_Systems.pdf) 
 [arXiv](https://arxiv.org/abs/1902.04627)
-* **[Conference]** _Spieker, H._, Gotlieb, A., Marijan, D., & Mossige, M. (2017). Reinforcement Learning for Automatic Test Case Prioritization and Selection in Continuous Integration. In Proceedings of 26th International Symposium on Software Testing and Analysis (ISSTA’17) (pp. 12--22). DOI: 
+* **[Conference]** _Spieker, H._, Gotlieb, A., Marijan, D., & Mossige, M. (2017). Reinforcement Learning for Automatic Test Case Prioritization and Selection in Continuous Integration. In Proceedings of 26th International Symposium on Software Testing and Analysis (ISSTA’17) (pp. 12--22). DOI: 10.1145/3092703.3092709
 [PDF](files/Spieker_et_al._-_2017_-_Reinforcement_Learning_for_Automatic_Test_Case_Prioritization_and_Selection_in_Continuous_Integration.pdf) 
 [arXiv](https://arxiv.org/abs/1811.04122)
 * **[Journal]** _Spieker, H._, Hagg, A., Gaier, A., Meilinger, S., & Asteroth, A. (2016). Multi-stage evolution of single- and multi-objective MCLP: Successive placement of charging stations. Soft Computing (Vol. 21, Issue 17, pp. 4859-4872). DOI: 10.1007/s00500-016-2374-9
