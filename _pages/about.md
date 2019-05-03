@@ -42,8 +42,6 @@ An up-to-date list of all publications can be found on [dblp](https://dblp.org/p
 * **[Conference]** _Spieker, H._, Hagg, A., Asteroth, A., Meilinger, S., Jacobs, V., & Oslislo, A. (2015). Successive evolution of charging station placement. In 2015 International Symposium on Innovations in Intelligent SysTems and Applications (INISTA). DOI: 10.1109/INISTA.2015.7276733
 [PDF](files/Spieker_et_al._-_2015_-_Successive_evolution_of_charging_station_placement.pdf)
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fdblp.uni-trier.de%2Fpers%2Ftb2%2Fs%2FSpieker%3AHelge.bib&jsonp=1"></script>
-
 Activities
 ======
 Reviewer for [IST](https://www.journals.elsevier.com/information-and-software-technology), [STVR](https://onlinelibrary.wiley.com/journal/10991688).
