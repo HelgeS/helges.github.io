@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome at Helge Spieker's Website"
+title: "Welcome to Helge Spieker's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
