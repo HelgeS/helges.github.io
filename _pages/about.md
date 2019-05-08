@@ -16,8 +16,8 @@ Research Interests
 
 I'm interested in applications of Artificial Intelligence and
 Machine Learning, especially in the domain of Software Testing. I'm further
-interested in the integration of traditional AI methods, such as Constraint
-Programming, and Machine Learning.
+interested in the integration of Machine Learning and traditional AI methods, such as Constraint
+Programming.
 
 Main Publications
 ======
@@ -26,29 +26,31 @@ An up-to-date list of all publications can be found on [dblp](https://dblp.org/p
 
 * **[Conference**] _Spieker, H._, Gotlieb, A., & Mossige, M. (2019). Rotational Diversity in Multi-Cycle Assignment Problems. In AAAI-19.
 [arXiv](https://arxiv.org/abs/1811.03496)
-* **[Conference**] Gotlieb, A., Marijan, D., & _Spieker, H._ (2018). Stratified Constructive Disjunction and Negation in Constraint Programming. In International Conference on Tools with Artificial Intelligence.
+* **[Conference**] Gotlieb, A., Marijan, D., & _Spieker, H._ (2018). Stratified Constructive Disjunction and Negation in Constraint Programming. In International Conference on Tools with Artificial Intelligence. DOI: 10.1109/ICTAI.2018.00026
 [PDF](files/Gotlieb_Marijan_Spieker_-_2018_-_Stratified_Constructive_Disjunction_and_Negation_in_Constraint_Programming.pdf) 
 [arXiv](https://arxiv.org/abs/1811.03906)
 * **[Workshop]** _Spieker, H._, & Gotlieb, A. (2018). Towards Hybrid Constraint Solving with Reinforcement Learning and Constraint-Based Local Search. In Data Science meets Optimization Workshop at Federated Artificial Intelligence Meeting.
 [PDF](files/Spieker_Gotlieb_-_2018_-_Towards_Hybrid_Constraint_Solving_with_Reinforcement_Learning_and_Constraint-Based_Local_Search.pdf)
-* **[Conference]** Mossige, M., Gotlieb, A., _Spieker, H._, Meling, H., & Carlsson, M. (2017). Time-Aware Test Case Execution Scheduling for Cyber-Physical Systems. In Proceedings of the 23rd International Conference on Principles and Practice of Constraint Programming (Vol. 10416, pp. 387–404).
+* **[Conference]** Mossige, M., Gotlieb, A., _Spieker, H._, Meling, H., & Carlsson, M. (2017). Time-Aware Test Case Execution Scheduling for Cyber-Physical Systems. In Proceedings of the 23rd International Conference on Principles and Practice of Constraint Programming (Vol. 10416, pp. 387–404). DOI: 10.1007/978-3-319-66158-2_25
 [PDF](files/Mossige_et_al._-_2017_-_Time-Aware_Test_Case_Execution_Scheduling_for_Cyber-Physical_Systems.pdf) 
 [arXiv](https://arxiv.org/abs/1902.04627)
-* **[Conference]** _Spieker, H._, Gotlieb, A., Marijan, D., & Mossige, M. (2017). Reinforcement Learning for Automatic Test Case Prioritization and Selection in Continuous Integration. In Proceedings of 26th International Symposium on Software Testing and Analysis (ISSTA’17) (pp. 12--22). 
+* **[Conference]** _Spieker, H._, Gotlieb, A., Marijan, D., & Mossige, M. (2017). Reinforcement Learning for Automatic Test Case Prioritization and Selection in Continuous Integration. In Proceedings of 26th International Symposium on Software Testing and Analysis (ISSTA’17) (pp. 12--22). DOI: 10.1145/3092703.3092709
 [PDF](files/Spieker_et_al._-_2017_-_Reinforcement_Learning_for_Automatic_Test_Case_Prioritization_and_Selection_in_Continuous_Integration.pdf) 
 [arXiv](https://arxiv.org/abs/1811.04122)
-* **[Journal]** _Spieker, H._, Hagg, A., Gaier, A., Meilinger, S., & Asteroth, A. (2016). Multi-stage evolution of single- and multi-objective MCLP. Soft Computing, 1–14.
+* **[Journal]** _Spieker, H._, Hagg, A., Gaier, A., Meilinger, S., & Asteroth, A. (2017). Multi-stage evolution of single- and multi-objective MCLP: Successive placement of charging stations. Soft Computing (Vol. 21, Issue 17, pp. 4859-4872). DOI: 10.1007/s00500-016-2374-9
 [PDF](files/Spieker_et_al._-_2017_-_Multi-stage_evolution_of_single-_and_multi-objective_MCLP.pdf)
-* **[Conference]** _Spieker, H._, Hagg, A., Asteroth, A., Meilinger, S., Jacobs, V., & Oslislo, A. (2015). Successive evolution of charging station placement. In 2015 International Symposium on Innovations in Intelligent SysTems and Applications (INISTA).
+* **[Conference]** _Spieker, H._, Hagg, A., Asteroth, A., Meilinger, S., Jacobs, V., & Oslislo, A. (2015). Successive evolution of charging station placement. In 2015 International Symposium on Innovations in Intelligent SysTems and Applications (INISTA). DOI: 10.1109/INISTA.2015.7276733
 [PDF](files/Spieker_et_al._-_2015_-_Successive_evolution_of_charging_station_placement.pdf)
 
-Service
+Activities
 ======
 Reviewer for [IST](https://www.journals.elsevier.com/information-and-software-technology), [STVR](https://onlinelibrary.wiley.com/journal/10991688).
 
-Member of Program Committee at [IEEE AI Testing 2019](http://ieeeaitests.com).
+Program Committee Member of [IEEE AI Testing 2019](http://ieeeaitests.com/).
+
+Co-Organizer of [NordConsNet Workshop 2019](https://nordconsnet19.github.io/).
 
 Contact
 ======
-Please feel free to contact me by using the contact information in the side bar.
+Please feel free to contact me by using the contact information in the sidebar.
 You can also find more information on my [Simula Homepage](https://www.simula.no/people/helge).
