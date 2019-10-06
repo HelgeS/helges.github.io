@@ -24,7 +24,8 @@ Main Publications
 
 An up-to-date list of all publications can be found on [dblp](https://dblp.org/pid/169/5121) or [Google Scholar](https://scholar.google.com/citations?user=SMvVsioAAAAJ&hl=en&oi=ao).
 
-* **[Conference**] _Spieker, H._, Gotlieb, A., & Mossige, M. (2019). Rotational Diversity in Multi-Cycle Assignment Problems. In AAAI-19.
+* **[Conference**] _Spieker, H._, Gotlieb, A., & Mossige, M. (2019). Rotational Diversity in Multi-Cycle Assignment Problems. In Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), pp. 7724-7731. DOI: 10.1609/aaai.v33i01.33017724
+[PDF](files/Spieker_et_al._-_2019_-_Rotational_Diversity_in_Multi-Cycle_Assignment_Problems.pdf) 
 [arXiv](https://arxiv.org/abs/1811.03496)
 * **[Conference**] Gotlieb, A., Marijan, D., & _Spieker, H._ (2018). Stratified Constructive Disjunction and Negation in Constraint Programming. In International Conference on Tools with Artificial Intelligence. DOI: 10.1109/ICTAI.2018.00026
 [PDF](files/Gotlieb_Marijan_Spieker_-_2018_-_Stratified_Constructive_Disjunction_and_Negation_in_Constraint_Programming.pdf) 
@@ -34,7 +35,7 @@ An up-to-date list of all publications can be found on [dblp](https://dblp.org/p
 * **[Conference]** Mossige, M., Gotlieb, A., _Spieker, H._, Meling, H., & Carlsson, M. (2017). Time-Aware Test Case Execution Scheduling for Cyber-Physical Systems. In Proceedings of the 23rd International Conference on Principles and Practice of Constraint Programming (Vol. 10416, pp. 387–404). DOI: 10.1007/978-3-319-66158-2_25
 [PDF](files/Mossige_et_al._-_2017_-_Time-Aware_Test_Case_Execution_Scheduling_for_Cyber-Physical_Systems.pdf) 
 [arXiv](https://arxiv.org/abs/1902.04627)
-* **[Conference]** _Spieker, H._, Gotlieb, A., Marijan, D., & Mossige, M. (2017). Reinforcement Learning for Automatic Test Case Prioritization and Selection in Continuous Integration. In Proceedings of 26th International Symposium on Software Testing and Analysis (ISSTA’17) (pp. 12--22). DOI: 10.1145/3092703.3092709
+* **[Conference]** _Spieker, H._, Gotlieb, A., Marijan, D., & Mossige, M. (2017). Reinforcement Learning for Automatic Test Case Prioritization and Selection in Continuous Integration. In Proceedings of 26th International Symposium on Software Testing and Analysis (ISSTA’17) (pp. 12--22). DOI: 10.1145/3092703.3092709 
 [PDF](files/Spieker_et_al._-_2017_-_Reinforcement_Learning_for_Automatic_Test_Case_Prioritization_and_Selection_in_Continuous_Integration.pdf) 
 [arXiv](https://arxiv.org/abs/1811.04122)
 * **[Journal]** _Spieker, H._, Hagg, A., Gaier, A., Meilinger, S., & Asteroth, A. (2017). Multi-stage evolution of single- and multi-objective MCLP: Successive placement of charging stations. Soft Computing (Vol. 21, Issue 17, pp. 4859-4872). DOI: 10.1007/s00500-016-2374-9
@@ -46,7 +47,7 @@ Activities
 ======
 Reviewer for [IST](https://www.journals.elsevier.com/information-and-software-technology), [STVR](https://onlinelibrary.wiley.com/journal/10991688).
 
-Program Committee Member of [IEEE AI Testing 2019](http://ieeeaitests.com/).
+Program Committee Member of [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), [IEEE AI Testing 2019](http://ieeeaitests.com/).
 
 Co-Organizer of [NordConsNet Workshop 2019](https://nordconsnet19.github.io/).
 
