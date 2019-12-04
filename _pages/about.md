@@ -45,7 +45,7 @@ An up-to-date list of all publications can be found on [dblp](https://dblp.org/p
 
 Activities
 ======
-Reviewer for [IST](https://www.journals.elsevier.com/information-and-software-technology), [STVR](https://onlinelibrary.wiley.com/journal/10991688).
+Journal reviewer for [IST](https://www.journals.elsevier.com/information-and-software-technology), [STVR](https://onlinelibrary.wiley.com/journal/10991688).
 
 Program Committee Member of [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), [IEEE AI Testing 2019/2020](http://ieeeaitests.com/).
 
