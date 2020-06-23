@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, I'm a PhD Student at [Simula Research Laboratory](https://www.simula.no/) in Oslo, Norway.
-My work is funded by the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/)).
+My work is funded by the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/)) and the [AI4EU](https://www.ai4eu.eu/) project.
 
 Research Interests
 ======
