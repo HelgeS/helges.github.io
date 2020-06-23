@@ -39,7 +39,7 @@ New Foundations for Human-Centered AI @ ECAI 2020.
 [arXiv](https://arxiv.org/abs/1811.03906v1)
 * **[Workshop]** _Spieker, H._, & Gotlieb, A. (2018). Towards Hybrid Constraint Solving with Reinforcement Learning and Constraint-Based Local Search. In Data Science meets Optimization Workshop at Federated Artificial Intelligence Meeting.
 [PDF](files/Spieker_Gotlieb_-_2018_-_Towards_Hybrid_Constraint_Solving_with_Reinforcement_Learning_and_Constraint-Based_Local_Search.pdf)
-* **[Conference]** Mossige, M., Gotlieb, A., _Spieker, H._, Meling, H., & Carlsson, M. (2017). Time-Aware Test Case Execution Scheduling for Cyber-Physical Systems. In Proceedings of the 23rd International Conference on Principles and Practice of Constraint Programming (Vol. 10416, pp. 386–404). DOI: [10.1007/978-3-319-66158-2_25](https://doi.org/10.1007/978-3-319-66158-2_25)
+* **[Conference]** Mossige, M., Gotlieb, A., _Spieker, H._, Meling, H., & Carlsson, M. (2017). Time-Aware Test Case Execution Scheduling for Cyber-Physical Systems. In Proceedings of the 23rd International Conference on Principles and Practice of Constraint Programming (Vol. 10416, pp. 386–404). DOI: [10.1007/978-3-319-66158-2_25](https://doi.org/10.1007/978-3-319-66158-2\_25)
 [PDF](files/Mossige_et_al._-_2017_-_Time-Aware_Test_Case_Execution_Scheduling_for_Cyber-Physical_Systems.pdf) 
 [arXiv](https://arxiv.org/abs/1902.04627)
 * **[Conference]** _Spieker, H._, Gotlieb, A., Marijan, D., & Mossige, M. (2017). Reinforcement Learning for Automatic Test Case Prioritization and Selection in Continuous Integration. In Proceedings of 26th International Symposium on Software Testing and Analysis (ISSTA’17) (pp. 12--22). DOI: [10.1145/3092703.3092709](https://doi.org/10.1145/3092703.3092709) 
