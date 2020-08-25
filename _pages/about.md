@@ -54,7 +54,7 @@ Activities
 
 Program Committee Member of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), [NeurIPS 2020](https://nips.cc/Conferences/2020/), [ICML 2020](https://icml.cc/Conferences/2020), [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), [QRS 2020](https://qrs20.techconf.org/), [SER&IP 2020](https://dumari.github.io/serip2020/), [IEEE AI Testing 2019/2020](http://ieeeaitests.com/).
 
-Journal reviewer for [IST](https://www.journals.elsevier.com/information-and-software-technology), [STVR](https://onlinelibrary.wiley.com/journal/10991688).
+Reviewer for [IST](https://www.journals.elsevier.com/information-and-software-technology), [STVR](https://onlinelibrary.wiley.com/journal/10991688), [IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html).
 
 Co-Organizer of [NordConsNet Workshop 2019](https://nordconsnet19.github.io/).
 
