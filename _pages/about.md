@@ -14,9 +14,8 @@ My work is funded by the Certus Centre for Software Validation and Verification 
 Research Interests
 ======
 
-I'm interested in applications of Artificial Intelligence and
-Machine Learning, especially in the domain of Software Testing. I'm further
-interested in the integration of Machine Learning and traditional AI methods, such as Constraint
+I'm interested in applications of Artificial Intelligence and Machine Learning, especially in the domain of Software Testing. 
+I'm further interested in the integration of Machine Learning and symbolic AI methods, such as Constraint
 Programming.
 
 Main Publications
@@ -28,7 +27,7 @@ An up-to-date list of all publications can be found on [dblp](https://dblp.org/p
 [arXiv](https://arxiv.org/abs/1811.03906)
 * **[Conference]** _Spieker, H._, Gotlieb, A. (2020). Learning Objective Boundaries for Constraint Optimization Problems. The 6th International Conference on Machine Learning, Optimization and Data Science - LOD 2020.
 [arXiv](https://arxiv.org/abs/2006.11560)
-* **[Workshop]** Ahuja, M.K., Belaid, M.B., Bernabe, P., Collet, M., Gotlieb, A., Lal, C., Marijan, D., Sen, S., Sharif, A., _Spieker, H._ (2020). Opening the Software Engineering Toolbox for the Assessment of Trustworthy AI. In 1st International Workshop on New Foundations for Human-Centered AI @ ECAI 2020. [arXiv](https://arxiv.org/abs/2007.07768)
+* **[Workshop]** Ahuja, M.K., Belaid, M.B., Bernabe, P., Collet, M., Gotlieb, A., Lal, C., Marijan, D., Sen, S., Sharif, A., _Spieker, H._ (2020). Opening the Software Engineering Toolbox for the Assessment of Trustworthy AI. In 1st International Workshop on New Foundations for Human-Centered AI @ ECAI 2020. [arXiv](https://arxiv.org/abs/2007.07768) [PDF](http://ceur-ws.org/Vol-2659/ahuja.pdf)
 * **[Journal]** _Spieker, H._, Gotlieb, A. (2020). Adaptive Metamorphic Testing with Contextual Bandits. Journal of Systems and Software. DOI: [10.1016/j.jss.2020.110574](https://doi.org/10.1016/j.jss.2020.110574) [arXiv](https://arxiv.org/abs/1910.00262)
 * **[Conference]** _Spieker, H._, Gotlieb, A., & Mossige, M. (2019). Rotational Diversity in Multi-Cycle Assignment Problems. In Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), pp. 7724-7731. DOI: [10.1609/aaai.v33i01.33017724](https://doi.org/10.1609/aaai.v33i01.33017724)
 [PDF](files/Spieker_et_al._-_2019_-_Rotational_Diversity_in_Multi-Cycle_Assignment_Problems.pdf) 
