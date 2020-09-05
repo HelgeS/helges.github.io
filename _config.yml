@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Helge Spieker"
   avatar           : "helge.jpeg"
-  bio              : "Artificial Intelligence, Machine Learning, Constraint Programming, Software Testing"
+  bio              : "AI & ML, Constraint Programming, Software Testing"
   location         : "Oslo, Norway"
   employer         : "Simula Research Laboratory"
   googlescholar    : "https://scholar.google.no/citations?user=SMvVsioAAAAJ&hl=en&oi=ao"
