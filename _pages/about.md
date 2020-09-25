@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a PhD Student at [Simula Research Laboratory](https://www.simula.no/) in Oslo, Norway.
-My work is funded by the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/)) and the [AI4EU](https://www.ai4eu.eu/) project.
+Hi, I'm a Postdoctoral Fellow at [Simula Research Laboratory](https://www.simula.no/) in Oslo, Norway.
+My work is funded by the [AI4EU](https://www.ai4eu.eu/) project.
+Previously I was a PhD Student at University of Oslo and Simula within the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/))
 
 Research Interests
 ======
@@ -53,7 +54,7 @@ Activities
 
 Program Committee Member of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), [ICLR 2021](https://iclr.cc/Conferences/2021/), [NeurIPS 2020](https://nips.cc/Conferences/2020/), [ICML 2020](https://icml.cc/Conferences/2020), [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), [QRS 2020](https://qrs20.techconf.org/), [SER&IP 2020](https://dumari.github.io/serip2020/), [IEEE AI Testing 2019/2020](http://ieeeaitests.com/).
 
-Reviewer for [IST](https://www.journals.elsevier.com/information-and-software-technology), [STVR](https://onlinelibrary.wiley.com/journal/10991688), [IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html).
+Reviewer for [IEEE TSE](https://www.computer.org/csdl/journal/ts), [IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html), [STVR](https://onlinelibrary.wiley.com/journal/10991688), [IST](https://www.journals.elsevier.com/information-and-software-technology).
 
 Co-Organizer of [NordConsNet Workshop 2019](https://nordconsnet19.github.io/).
 
