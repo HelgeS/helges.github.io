@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm a Postdoctoral Fellow at [Simula Research Laboratory](https://www.simula.no/) in Oslo, Norway.
 My work is funded by the [AI4EU](https://www.ai4eu.eu/) project.
-Previously I was a PhD Student at University of Oslo and Simula within the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/)) under the supervision of [Arnaud Gotlieb](https://www.simula.no/people/arnaud), [Magne Jørgensen](https://www.simula.no/people/magnej) and [Morten Mossige](https://www.uis.no/article.php?articleID=74495&categoryID=11198).
+Previously I was a PhD Student at University of Oslo and Simula within the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/)) under the supervision of [Arnaud Gotlieb](https://www.simula.no/people/arnaud), [Magne Jørgensen](https://www.simula.no/people/magnej) and [Morten Mossige](https://www.uis.no/nb/profile/1578).
 
 Research Interests
 ======
