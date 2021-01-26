@@ -51,7 +51,17 @@ An up-to-date list of all publications can be found on [dblp](https://dblp.org/p
 Activities
 ======
 
-Program Committee Member of [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), [ICLR 2021](https://iclr.cc/Conferences/2021/), [NeurIPS 2020](https://nips.cc/Conferences/2020/), [ICML 2021](https://icml.cc/Conferences/2021), [SER&IP @ ICSE 2021](https://dumari.github.io/serip2021/), [ICML 2020](https://icml.cc/Conferences/2020), [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), [QRS 2020](https://qrs20.techconf.org/), [SER&IP @ ICSE 2020](https://dumari.github.io/serip2020/), [IEEE AI Testing 2019/2020](http://ieeeaitests.com/).
+Program Committee Member of 
+[AAAI 2021](https://aaai.org/Conferences/AAAI-21/), 
+[ICLR 2021](https://iclr.cc/Conferences/2021/), 
+[ICML 2021](https://icml.cc/Conferences/2021), 
+[SER&IP @ ICSE 2021](https://dumari.github.io/serip2021/), 
+[NeurIPS 2020](https://nips.cc/Conferences/2020/), 
+[ICML 2020](https://icml.cc/Conferences/2020), 
+[AAAI 2020](https://aaai.org/Conferences/AAAI-20/), 
+[QRS 2020](https://qrs20.techconf.org/), 
+[SER&IP @ ICSE 2020](https://dumari.github.io/serip2020/), 
+[IEEE AI Testing 2019/2020](http://ieeeaitests.com/).
 
 Reviewer for [IEEE TSE](https://www.computer.org/csdl/journal/ts), [IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html), [STVR](https://onlinelibrary.wiley.com/journal/10991688), [IST](https://www.journals.elsevier.com/information-and-software-technology).
 
