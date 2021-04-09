@@ -51,7 +51,7 @@ An up-to-date list of all publications can be found on [dblp](https://dblp.org/p
 Activities
 ======
 
-Program Committee Member of 
+I'm proud to have been a program committee member and reviewer of 
 *2021*
 [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), 
 [ICLR 2021](https://iclr.cc/Conferences/2021/), 
@@ -70,7 +70,12 @@ Program Committee Member of
 *2019*
 [IEEE AI Testing 2019](http://ieeeaitests.com/).
 
-Reviewer for [IEEE TSE](https://www.computer.org/csdl/journal/ts), [IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html), [STVR](https://onlinelibrary.wiley.com/journal/10991688), [IST](https://www.journals.elsevier.com/information-and-software-technology), [Computer & Operations Research](https://www.journals.elsevier.com/computers-and-operations-research).
+I have also been a reviewer for these journals: 
+[IEEE TSE](https://www.computer.org/csdl/journal/ts), 
+[IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html), 
+[STVR](https://onlinelibrary.wiley.com/journal/10991688), 
+[IST](https://www.journals.elsevier.com/information-and-software-technology), 
+[CAOR](https://www.journals.elsevier.com/computers-and-operations-research).
 
 Co-Organizer of [NordConsNet Workshop 2019](https://nordconsnet19.github.io/).
 
@@ -79,5 +84,10 @@ Contact
 Please feel free to contact me by using the contact information in the sidebar.
 You can also find more information on my [Simula Homepage](https://www.simula.no/people/helge).
 
-*[TSE]: IEEE Transactions on Software Engineering
-*[TRel]: IEEE Transactions on Reliability
+*[IEEE TSE]: IEEE Transactions on Software Engineering
+*[IEEE TRel]: IEEE Transactions on Reliability
+*[STVR]: Software: Testing, Verification and Reliability
+*[IST]: Information and Software Technology
+*[CAOR]: Computer & Operations Research
+*[AAAI]: Association for the Advancement of Artificial Intelligence
+*[ICLR]: International Conference of Learning Representations
