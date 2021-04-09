@@ -10,7 +10,8 @@ redirect_from:
 
 Hi, I'm a Postdoctoral Fellow at [Simula Research Laboratory](https://www.simula.no/) in Oslo, Norway.
 My work is funded by the [AI4EU](https://www.ai4eu.eu/) project.
-Previously I was a PhD Student at University of Oslo and Simula within the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/)) under the supervision of [Arnaud Gotlieb](https://www.simula.no/people/arnaud), [Magne Jørgensen](https://www.simula.no/people/magnej) and [Morten Mossige](https://www.uis.no/nb/profile/1578).
+
+Previously, I was a PhD Student at University of Oslo and Simula within the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/)) under the supervision of [Arnaud Gotlieb](https://www.simula.no/people/arnaud), [Magne Jørgensen](https://www.simula.no/people/magnej) and [Morten Mossige](https://www.uis.no/nb/profile/1578).
 
 Research Interests
 ======
@@ -51,14 +52,15 @@ An up-to-date list of all publications can be found on [dblp](https://dblp.org/p
 Activities
 ======
 
-I'm proud to have been a program committee member and reviewer of 
+I am proud to be or have been a program committee member and reviewer of 
 *2021*
 [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), 
 [ICLR 2021](https://iclr.cc/Conferences/2021/), 
 [ICML 2021](https://icml.cc/Conferences/2021), 
 [NeurIPS 2021](https://nips.cc/Conferences/2021/), 
 [QRS 2021](https://qrs21.techconf.org/), 
-[SEA4DQ 2021](https://sea4dq.github.io/)
+[SEA4DQ 2021](https://sea4dq.github.io/).
+
 *2020*
 [SER&IP @ ICSE 2021](https://dumari.github.io/serip2021/), 
 [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), 
@@ -67,17 +69,23 @@ I'm proud to have been a program committee member and reviewer of
 [QRS 2020](https://qrs20.techconf.org/), 
 [SER&IP @ ICSE 2020](https://dumari.github.io/serip2020/), 
 [IEEE AI Testing 2020](http://ieeeaitests.com/).
+
 *2019*
 [IEEE AI Testing 2019](http://ieeeaitests.com/).
 
-I have also been a reviewer for these journals: 
+I am a member of the associate editorial board of [Applied AI Letters](https://onlinelibrary.wiley.com/journal/26895595).
+
+I have been or currently am a reviewer for these journals: 
 [IEEE TSE](https://www.computer.org/csdl/journal/ts), 
 [IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html), 
 [STVR](https://onlinelibrary.wiley.com/journal/10991688), 
 [IST](https://www.journals.elsevier.com/information-and-software-technology), 
 [CAOR](https://www.journals.elsevier.com/computers-and-operations-research).
 
-Co-Organizer of [NordConsNet Workshop 2019](https://nordconsnet19.github.io/).
+It was a great pleasure to have been a co-organizer of the [NordConsNet Workshop 2019](https://nordconsnet19.github.io/).
+
+If you want to check out what other great people (and especially bachelor and master students in Germany) are doing, check out the: [German InformatiCup](https://gi.de/informaticup).
+I'm helping out in the jury, but the impressive results stem from the student groups!
 
 Contact
 ======
@@ -91,3 +99,8 @@ You can also find more information on my [Simula Homepage](https://www.simula.no
 *[CAOR]: Computer & Operations Research
 *[AAAI]: Association for the Advancement of Artificial Intelligence
 *[ICLR]: International Conference of Learning Representations
+*[ICML]: International Conference on Machine Learning
+*[NeurIPS]: Conference on Neural Information Processing Systems
+*[QRS]: IEEE International Conference on Software Quality, Reliability, and Security
+*[SER&IP]: Workshop on Software Engineering Research & Industrial Practice
+*[SEA4DQ]: Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems
