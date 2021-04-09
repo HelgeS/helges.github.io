@@ -52,18 +52,25 @@ Activities
 ======
 
 Program Committee Member of 
+*2021*
 [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), 
 [ICLR 2021](https://iclr.cc/Conferences/2021/), 
 [ICML 2021](https://icml.cc/Conferences/2021), 
+[NeurIPS 2021](https://nips.cc/Conferences/2021/), 
+[QRS 2021](https://qrs21.techconf.org/), 
+[SEA4DQ 2021](https://sea4dq.github.io/)
+*2020*
 [SER&IP @ ICSE 2021](https://dumari.github.io/serip2021/), 
-[NeurIPS 2020](https://nips.cc/Conferences/2020/), 
-[ICML 2020](https://icml.cc/Conferences/2020), 
 [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), 
+[ICML 2020](https://icml.cc/Conferences/2020), 
+[NeurIPS 2020](https://nips.cc/Conferences/2020/), 
 [QRS 2020](https://qrs20.techconf.org/), 
 [SER&IP @ ICSE 2020](https://dumari.github.io/serip2020/), 
-[IEEE AI Testing 2019/2020](http://ieeeaitests.com/).
+[IEEE AI Testing 2020](http://ieeeaitests.com/).
+*2019*
+[IEEE AI Testing 2019](http://ieeeaitests.com/).
 
-Reviewer for [IEEE TSE](https://www.computer.org/csdl/journal/ts), [IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html), [STVR](https://onlinelibrary.wiley.com/journal/10991688), [IST](https://www.journals.elsevier.com/information-and-software-technology).
+Reviewer for [IEEE TSE](https://www.computer.org/csdl/journal/ts), [IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html), [STVR](https://onlinelibrary.wiley.com/journal/10991688), [IST](https://www.journals.elsevier.com/information-and-software-technology), [Computer & Operations Research](https://www.journals.elsevier.com/computers-and-operations-research).
 
 Co-Organizer of [NordConsNet Workshop 2019](https://nordconsnet19.github.io/).
 
@@ -71,3 +78,6 @@ Contact
 ======
 Please feel free to contact me by using the contact information in the sidebar.
 You can also find more information on my [Simula Homepage](https://www.simula.no/people/helge).
+
+*[TSE]: IEEE Transactions on Software Engineering
+*[TRel]: IEEE Transactions on Reliability
