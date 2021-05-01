@@ -25,6 +25,7 @@ Main Publications
 
 An up-to-date list of all publications can be found on [dblp](https://dblp.org/pid/169/5121) or [Google Scholar](https://scholar.google.com/citations?user=SMvVsioAAAAJ&hl=en&oi=ao).
 
+* **[Conference]** _Spieker, H._ (2021). Constraint-Guided Reinforcement Learning: Augmenting the Agent-Environment-Interaction. International Joint Conference on Neural Networks (IJCNN). [arXiv](https://arxiv.org/abs/2104.11918)
 * **[Journal]** Gotlieb, A., Marijan, D., _Spieker, H._ (2020). ITE: A Lightweight Implementation of Stratified Reasoning for Constructive Logical Operators. International Journal on Artificial Intelligence Tools. Vol. 29, No. 03n04. DOI: [10.1142/S0218213020600064](https://doi.org/10.1142/S0218213020600064)
 [arXiv](https://arxiv.org/abs/1811.03906)
 * **[Conference]** _Spieker, H._, Gotlieb, A. (2020). Learning Objective Boundaries for Constraint Optimization Problems. Machine Learning, Optimization, and Data Science. LOD 2020. Lecture Notes in Computer Science, vol 12566. DOI: [10.1007/978-3-030-64580-9_33](https://doi.org/10.1007/978-3-030-64580-9_33) [arXiv](https://arxiv.org/abs/2006.11560)
@@ -53,16 +54,18 @@ Activities
 ======
 
 I am proud to be or have been a program committee member and reviewer of 
+
 *2021*
 [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), 
 [ICLR 2021](https://iclr.cc/Conferences/2021/), 
 [ICML 2021](https://icml.cc/Conferences/2021), 
 [NeurIPS 2021](https://nips.cc/Conferences/2021/), 
 [QRS 2021](https://qrs21.techconf.org/), 
-[SEA4DQ 2021](https://sea4dq.github.io/).
+[SEA4DQ 2021](https://sea4dq.github.io/),
+[SER&IP @ ICSE 2021](https://dumari.github.io/serip2021/), 
+[IEEE AI Testing 2021](http://ieeeaitests.com/).
 
 *2020*
-[SER&IP @ ICSE 2021](https://dumari.github.io/serip2021/), 
 [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), 
 [ICML 2020](https://icml.cc/Conferences/2020), 
 [NeurIPS 2020](https://nips.cc/Conferences/2020/), 
