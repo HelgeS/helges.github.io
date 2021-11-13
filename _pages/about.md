@@ -55,6 +55,10 @@ Activities
 
 I am proud to be or have been a program committee member and reviewer of 
 
+*2022*
+[AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
+[ICLR 2022](https://iclr.cc/Conferences/2022/).
+
 *2021*
 [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), 
 [ICLR 2021](https://iclr.cc/Conferences/2021/), 
@@ -83,6 +87,7 @@ I have been or currently am a reviewer for these journals:
 [IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html), 
 [STVR](https://onlinelibrary.wiley.com/journal/10991688), 
 [IST](https://www.journals.elsevier.com/information-and-software-technology), 
+[EMSE](https://www.springer.com/journal/10664),
 [CAOR](https://www.journals.elsevier.com/computers-and-operations-research).
 
 It was a great pleasure to have been a co-organizer of the [NordConsNet Workshop 2019](https://nordconsnet19.github.io/).
