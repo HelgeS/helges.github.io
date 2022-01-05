@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a Postdoctoral Fellow at [Simula Research Laboratory](https://www.simula.no/) in Oslo, Norway.
-My work is funded by the [AI4EU](https://www.ai4eu.eu/) project.
+Hi, I'm a research scientist at [Simula Research Laboratory](https://www.simula.no/) in Oslo, Norway.
+My current topic are self-supervised neuro-symbolic solvers for constraint satisfaction in collaboration with the University of Bonn, Germany, under the [AutoCSP project](https://autocsp.eu/) funded by the Norwegian Research Council.
 
 Previously, I was a PhD Student at University of Oslo and Simula within the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/)) under the supervision of [Arnaud Gotlieb](https://www.simula.no/people/arnaud), [Magne Jørgensen](https://www.simula.no/people/magnej) and [Morten Mossige](https://www.uis.no/nb/profile/1578).
 
 Research Interests
 ======
 
-I'm interested in applications of Artificial Intelligence and Machine Learning, especially in the domain of Software Testing. 
-I'm further interested in the integration of Machine Learning and symbolic AI methods, such as Constraint
-Programming.
+I'm interested in the integration of Machine Learning and symbolic AI methods, such as Constraint Programming.
+I'm further interested in applications of Artificial Intelligence and Machine Learning, especially in the domain of Software Testing. 
 
 Main Publications
 ======
