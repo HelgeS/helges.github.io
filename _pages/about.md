@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a Postdoctoral Fellow at [Simula Research Laboratory](https://www.simula.no/) in Oslo, Norway.
-My work is funded by the [AI4EU](https://www.ai4eu.eu/) project.
+Hi, I'm a research scientist at [Simula Research Laboratory](https://www.simula.no/) in Oslo, Norway.
+My current topic are self-supervised neuro-symbolic solvers for constraint satisfaction in collaboration with the University of Bonn, Germany, under the [AutoCSP project](https://autocsp.eu/) funded by the Norwegian Research Council.
 
 Previously, I was a PhD Student at University of Oslo and Simula within the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/)) under the supervision of [Arnaud Gotlieb](https://www.simula.no/people/arnaud), [Magne Jørgensen](https://www.simula.no/people/magnej) and [Morten Mossige](https://www.uis.no/nb/profile/1578).
 
 Research Interests
 ======
 
-I'm interested in applications of Artificial Intelligence and Machine Learning, especially in the domain of Software Testing. 
-I'm further interested in the integration of Machine Learning and symbolic AI methods, such as Constraint
-Programming.
+I'm interested in the integration of Machine Learning and symbolic AI methods, such as Constraint Programming.
+I'm further interested in applications of Artificial Intelligence and Machine Learning, especially in the domain of Software Testing. 
 
 Main Publications
 ======
@@ -27,6 +26,7 @@ An up-to-date list of all publications can be found on [dblp](https://dblp.org/p
 
 * **[Conference]** 	Belaid, M. B., Belmecheri, N., Gotlieb, A., Lazaar, N., _Spieker, H._ (2022). GEQCA: Generic Qualitative Constraint Acquisition. AAAI.
 * **[Journal]** _Spieker, H._, Gotlieb, A. (2021). 	Predictive Machine Learning of Objective Boundaries for Solving COPs. AI. Vol. 2, No. 4. MDPI. DOI: [10.3390/ai2040033](http://dx.doi.org/10.3390/ai2040033) [arXiv](https://arxiv.org/abs/2111.03160)
+* **[Conference]** _Spieker, H._ (2021). Constraint-Guided Reinforcement Learning: Augmenting the Agent-Environment-Interaction. International Joint Conference on Neural Networks (IJCNN). [arXiv](https://arxiv.org/abs/2104.11918)
 * **[Journal]** Gotlieb, A., Marijan, D., _Spieker, H._ (2020). ITE: A Lightweight Implementation of Stratified Reasoning for Constructive Logical Operators. International Journal on Artificial Intelligence Tools. Vol. 29, No. 03n04. DOI: [10.1142/S0218213020600064](https://doi.org/10.1142/S0218213020600064)
 [arXiv](https://arxiv.org/abs/1811.03906)
 * **[Conference]** _Spieker, H._, Gotlieb, A. (2020). Learning Objective Boundaries for Constraint Optimization Problems. Machine Learning, Optimization, and Data Science. LOD 2020. Lecture Notes in Computer Science, vol 12566. DOI: [10.1007/978-3-030-64580-9_33](https://doi.org/10.1007/978-3-030-64580-9_33) [arXiv](https://arxiv.org/abs/2006.11560)
@@ -57,8 +57,8 @@ Activities
 I am proud to be or have been a program committee member and reviewer of 
 *2022*
 [AAAI 2022](https://aaai.org/Conferences/AAAI-22/),
-[IJCAI-ECAI 2022](https://ijcai-22.org/),
 [ICLR 2022](https://iclr.cc/Conferences/2022/),
+[IJCAI-ECAI 2022](https://ijcai-22.org/),
 [AIST @ ICST 2022](https://icst2022.vrain.upv.es/home/aist-2022).
 
 *2021*
@@ -67,10 +67,11 @@ I am proud to be or have been a program committee member and reviewer of
 [ICML 2021](https://icml.cc/Conferences/2021), 
 [NeurIPS 2021](https://nips.cc/Conferences/2021/), 
 [QRS 2021](https://qrs21.techconf.org/), 
-[SEA4DQ 2021](https://sea4dq.github.io/).
+[SEA4DQ 2021](https://sea4dq.github.io/),
+[SER&IP @ ICSE 2021](https://dumari.github.io/serip2021/), 
+[IEEE AI Testing 2021](http://ieeeaitests.com/).
 
 *2020*
-[SER&IP @ ICSE 2021](https://dumari.github.io/serip2021/), 
 [AAAI 2020](https://aaai.org/Conferences/AAAI-20/), 
 [ICML 2020](https://icml.cc/Conferences/2020), 
 [NeurIPS 2020](https://nips.cc/Conferences/2020/), 
@@ -88,6 +89,7 @@ I have been or currently am a reviewer for these journals:
 [IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html), 
 [STVR](https://onlinelibrary.wiley.com/journal/10991688), 
 [IST](https://www.journals.elsevier.com/information-and-software-technology), 
+[EMSE](https://www.springer.com/journal/10664),
 [CAOR](https://www.journals.elsevier.com/computers-and-operations-research).
 
 It was a great pleasure to have been a co-organizer of the [NordConsNet Workshop 2019](https://nordconsnet19.github.io/).
