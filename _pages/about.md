@@ -24,7 +24,7 @@ Main Publications
 
 An up-to-date list of all publications can be found on [dblp](https://dblp.org/pid/169/5121) or [Google Scholar](https://scholar.google.com/citations?user=SMvVsioAAAAJ&hl=en&oi=ao).
 
-* **[Conference]** 	Belaid, M. B., Belmecheri, N., Gotlieb, A., Lazaar, N., _Spieker, H._ (2022). GEQCA: Generic Qualitative Constraint Acquisition. AAAI.
+* **[Conference]** 	Belaid, M. B., Belmecheri, N., Gotlieb, A., Lazaar, N., _Spieker, H._ (2022). GEQCA: Generic Qualitative Constraint Acquisition. AAAI. [Preprint](https://aaai-2022.virtualchair.net/poster_aaai8101)
 * **[Journal]** _Spieker, H._, Gotlieb, A. (2021). 	Predictive Machine Learning of Objective Boundaries for Solving COPs. AI. Vol. 2, No. 4. MDPI. DOI: [10.3390/ai2040033](http://dx.doi.org/10.3390/ai2040033) [arXiv](https://arxiv.org/abs/2111.03160)
 * **[Conference]** _Spieker, H._ (2021). Constraint-Guided Reinforcement Learning: Augmenting the Agent-Environment-Interaction. International Joint Conference on Neural Networks (IJCNN). [arXiv](https://arxiv.org/abs/2104.11918)
 * **[Journal]** Gotlieb, A., Marijan, D., _Spieker, H._ (2020). ITE: A Lightweight Implementation of Stratified Reasoning for Constructive Logical Operators. International Journal on Artificial Intelligence Tools. Vol. 29, No. 03n04. DOI: [10.1142/S0218213020600064](https://doi.org/10.1142/S0218213020600064)
