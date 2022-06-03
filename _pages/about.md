@@ -24,6 +24,8 @@ Main Publications
 
 An up-to-date list of all publications can be found on [dblp](https://dblp.org/pid/169/5121) or [Google Scholar](https://scholar.google.com/citations?user=SMvVsioAAAAJ&hl=en&oi=ao).
 
+* **[Conference]** 	Belaid, M. B., Belmecheri, N., Gotlieb, A., Lazaar, N., _Spieker, H._ (2022). GEQCA: Generic Qualitative Constraint Acquisition. AAAI. [Preprint](https://aaai-2022.virtualchair.net/poster_aaai8101)
+* **[Journal]** _Spieker, H._, Gotlieb, A. (2021). 	Predictive Machine Learning of Objective Boundaries for Solving COPs. AI. Vol. 2, No. 4. MDPI. DOI: [10.3390/ai2040033](http://dx.doi.org/10.3390/ai2040033) [arXiv](https://arxiv.org/abs/2111.03160)
 * **[Conference]** _Spieker, H._ (2021). Constraint-Guided Reinforcement Learning: Augmenting the Agent-Environment-Interaction. International Joint Conference on Neural Networks (IJCNN). [arXiv](https://arxiv.org/abs/2104.11918)
 * **[Journal]** Gotlieb, A., Marijan, D., _Spieker, H._ (2020). ITE: A Lightweight Implementation of Stratified Reasoning for Constructive Logical Operators. International Journal on Artificial Intelligence Tools. Vol. 29, No. 03n04. DOI: [10.1142/S0218213020600064](https://doi.org/10.1142/S0218213020600064)
 [arXiv](https://arxiv.org/abs/1811.03906)
@@ -56,9 +58,10 @@ I am proud to be or have been a program committee member and reviewer of
 
 *2022*
 [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
+[AIST @ ICST 2022](https://icst2022.vrain.upv.es/home/aist-2022),
 [CP 2022](https://cp2022.a4cp.org/),
 [ICLR 2022](https://iclr.cc/Conferences/2022/),
-[IJCAI 2022](https://ijcai-22.org/),
+[IJCAI-ECAI 2022](https://ijcai-22.org/),
 [NeurIPS 2022](https://nips.cc/Conferences/2022/),
 [SEA4DQ 2022](https://sea4dq.github.io/).
 
@@ -115,3 +118,4 @@ You can also find more information on my [Simula Homepage](https://www.simula.no
 *[QRS]: IEEE International Conference on Software Quality, Reliability, and Security
 *[SER&IP]: Workshop on Software Engineering Research & Industrial Practice
 *[SEA4DQ]: Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems
+*[AIST]: Workshop on Artificial Intelligence in Software Testing
