@@ -56,7 +56,11 @@ I am proud to be or have been a program committee member and reviewer of
 
 *2022*
 [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
-[ICLR 2022](https://iclr.cc/Conferences/2022/).
+[CP 2022](https://cp2022.a4cp.org/),
+[ICLR 2022](https://iclr.cc/Conferences/2022/),
+[IJCAI 2022](https://ijcai-22.org/),
+[NeurIPS 2022](https://nips.cc/Conferences/2022/),
+[SEA4DQ 2022](https://sea4dq.github.io/).
 
 *2021*
 [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), 
