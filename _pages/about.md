@@ -9,24 +9,26 @@ redirect_from:
 ---
 
 Hi, I'm a research scientist at [Simula Research Laboratory](https://www.simula.no/) in Oslo, Norway.
-My current topic are self-supervised neuro-symbolic solvers for constraint satisfaction in collaboration with the University of Bonn, Germany, under the [AutoCSP project](https://autocsp.eu/) funded by the Norwegian Research Council.
+My current research topics are self-supervised neuro-symbolic solvers for constraint satisfaction, which I research in collaboration with the University of Bonn, Germany, under the [AutoCSP project](https://autocsp.eu/) funded by the Norwegian Research Council.
 
 Previously, I was a PhD Student at University of Oslo and Simula within the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/)) under the supervision of [Arnaud Gotlieb](https://www.simula.no/people/arnaud), [Magne Jørgensen](https://www.simula.no/people/magnej) and [Morten Mossige](https://www.uis.no/nb/profile/1578).
 
 Research Interests
 ======
 
-I'm interested in the integration of Machine Learning and symbolic AI methods, such as Constraint Programming.
-I'm further interested in applications of Artificial Intelligence and Machine Learning, especially in the domain of Software Testing. 
+I'm interested in the intersection and integration of data-driven machine learning and logic-driven symbolic AI methods, such as Constraint Programming, especially with an application in the domain of software testing. 
 
 Main Publications
 ======
 
 An up-to-date list of all publications can be found on [dblp](https://dblp.org/pid/169/5121) or [Google Scholar](https://scholar.google.com/citations?user=SMvVsioAAAAJ&hl=en&oi=ao).
 
+* **[Workshop]** Ahuja, M.K., Gotlieb, A., _Spieker, H._ (2022). In Artificial Intelligence in Software Testing @ ICST 2022. [arXiv](https://arxiv.org/abs/2202.12139)
 * **[Conference]** 	Belaid, M. B., Belmecheri, N., Gotlieb, A., Lazaar, N., _Spieker, H._ (2022). GEQCA: Generic Qualitative Constraint Acquisition. AAAI. [Preprint](https://aaai-2022.virtualchair.net/poster_aaai8101)
 * **[Journal]** _Spieker, H._, Gotlieb, A. (2021). 	Predictive Machine Learning of Objective Boundaries for Solving COPs. AI. Vol. 2, No. 4. MDPI. DOI: [10.3390/ai2040033](http://dx.doi.org/10.3390/ai2040033) [arXiv](https://arxiv.org/abs/2111.03160)
+* **[Book Chapter]** Gotlieb, A., Marijan, D., _Spieker, H._ (2021). Testing Industrial Robotic Systems: A New Battlefield!. In: Cavalcanti, A., Dongol, B., Hierons, R., Timmis, J., Woodcock, J. (eds) Software Engineering for Robotics. Springer, Cham. DOI: [10.1007/978-3-030-66494-7_4](https://doi.org/10.1007/978-3-030-66494-7_4)
 * **[Conference]** _Spieker, H._ (2021). Constraint-Guided Reinforcement Learning: Augmenting the Agent-Environment-Interaction. International Joint Conference on Neural Networks (IJCNN). [arXiv](https://arxiv.org/abs/2104.11918)
+* **[Conference]** Ahuja, M. K., Belaid, M. B., Bernabé, P., Gotlieb, A., Marijan, D., Sharif, A., _Spieker, H._ (2021). In Proceedings of the 31st European Safety and Reliability Conference (ESREL). ESREL, 2021. 
 * **[Journal]** Gotlieb, A., Marijan, D., _Spieker, H._ (2020). ITE: A Lightweight Implementation of Stratified Reasoning for Constructive Logical Operators. International Journal on Artificial Intelligence Tools. Vol. 29, No. 03n04. DOI: [10.1142/S0218213020600064](https://doi.org/10.1142/S0218213020600064)
 [arXiv](https://arxiv.org/abs/1811.03906)
 * **[Conference]** _Spieker, H._, Gotlieb, A. (2020). Learning Objective Boundaries for Constraint Optimization Problems. Machine Learning, Optimization, and Data Science. LOD 2020. Lecture Notes in Computer Science, vol 12566. DOI: [10.1007/978-3-030-64580-9_33](https://doi.org/10.1007/978-3-030-64580-9_33) [arXiv](https://arxiv.org/abs/2006.11560)
@@ -94,7 +96,8 @@ I have been or currently am a reviewer for these journals:
 [STVR](https://onlinelibrary.wiley.com/journal/10991688), 
 [IST](https://www.journals.elsevier.com/information-and-software-technology), 
 [EMSE](https://www.springer.com/journal/10664),
-[CAOR](https://www.journals.elsevier.com/computers-and-operations-research).
+[CAOR](https://www.journals.elsevier.com/computers-and-operations-research),
+[TOSEM](https://dl.acm.org/journal/tosem).q
 
 It was a great pleasure to have been a co-organizer of the [NordConsNet Workshop 2019](https://nordconsnet19.github.io/).
 
@@ -118,4 +121,5 @@ You can also find more information on my [Simula Homepage](https://www.simula.no
 *[QRS]: IEEE International Conference on Software Quality, Reliability, and Security
 *[SER&IP]: Workshop on Software Engineering Research & Industrial Practice
 *[SEA4DQ]: Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems
+*[TOSEM]: ACM Transactions on Software Engineering and Methodology
 *[AIST]: Workshop on Artificial Intelligence in Software Testing
