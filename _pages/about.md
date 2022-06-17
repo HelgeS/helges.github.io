@@ -97,7 +97,7 @@ I have been or currently am a reviewer for these journals:
 [IST](https://www.journals.elsevier.com/information-and-software-technology), 
 [EMSE](https://www.springer.com/journal/10664),
 [CAOR](https://www.journals.elsevier.com/computers-and-operations-research),
-[TOSEM](https://dl.acm.org/journal/tosem).q
+[TOSEM](https://dl.acm.org/journal/tosem).
 
 It was a great pleasure to have been a co-organizer of the [NordConsNet Workshop 2019](https://nordconsnet19.github.io/).
 
