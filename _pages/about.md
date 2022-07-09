@@ -23,9 +23,9 @@ Main Publications
 
 An up-to-date list of all publications can be found on [dblp](https://dblp.org/pid/169/5121) or [Google Scholar](https://scholar.google.com/citations?user=SMvVsioAAAAJ&hl=en&oi=ao).
 
-* **[Workshop]** Ahuja, M.K., Gotlieb, A., _Spieker, H._ (2022). In Artificial Intelligence in Software Testing @ ICST 2022. [arXiv](https://arxiv.org/abs/2202.12139)
-* **[Conference]** 	Belaid, M. B., Belmecheri, N., Gotlieb, A., Lazaar, N., _Spieker, H._ (2022). GEQCA: Generic Qualitative Constraint Acquisition. AAAI. [Preprint](https://aaai-2022.virtualchair.net/poster_aaai8101)
-* **[Journal]** _Spieker, H._, Gotlieb, A. (2021). 	Predictive Machine Learning of Objective Boundaries for Solving COPs. AI. Vol. 2, No. 4. MDPI. DOI: [10.3390/ai2040033](http://dx.doi.org/10.3390/ai2040033) [arXiv](https://arxiv.org/abs/2111.03160)
+* **[Workshop]** Ahuja, M.K., Gotlieb, A., _Spieker, H._ (2022). Testing Deep Learning Models: A First Comparative Study of Multiple Testing Techniques. Artificial Intelligence in Software Testing @ ICST 2022. DOI: [10.1109/ICSTW55395.2022.00035](https://doi.org/10.1109/ICSTW55395.2022.00035) [arXiv](https://arxiv.org/abs/2202.12139)
+* **[Conference]** Belaid, M. B., Belmecheri, N., Gotlieb, A., Lazaar, N., _Spieker, H._ (2022). GEQCA: Generic Qualitative Constraint Acquisition. AAAI. DOI: [10.1609/aaai.v36i4.20282](https://doi.org/10.1609/aaai.v36i4.20282)
+* **[Journal]** _Spieker, H._, Gotlieb, A. (2021). Predictive Machine Learning of Objective Boundaries for Solving COPs. AI. Vol. 2, No. 4. MDPI. DOI: [10.3390/ai2040033](http://dx.doi.org/10.3390/ai2040033) [arXiv](https://arxiv.org/abs/2111.03160)
 * **[Book Chapter]** Gotlieb, A., Marijan, D., _Spieker, H._ (2021). Testing Industrial Robotic Systems: A New Battlefield!. In: Cavalcanti, A., Dongol, B., Hierons, R., Timmis, J., Woodcock, J. (eds) Software Engineering for Robotics. Springer, Cham. DOI: [10.1007/978-3-030-66494-7_4](https://doi.org/10.1007/978-3-030-66494-7_4)
 * **[Conference]** _Spieker, H._ (2021). Constraint-Guided Reinforcement Learning: Augmenting the Agent-Environment-Interaction. International Joint Conference on Neural Networks (IJCNN). [arXiv](https://arxiv.org/abs/2104.11918)
 * **[Conference]** Ahuja, M. K., Belaid, M. B., Bernabé, P., Gotlieb, A., Marijan, D., Sharif, A., _Spieker, H._ (2021). In Proceedings of the 31st European Safety and Reliability Conference (ESREL). ESREL, 2021. 
@@ -93,11 +93,12 @@ I am a member of the associate editorial board of [Applied AI Letters](https://o
 I have been or currently am a reviewer for these journals: 
 [IEEE TSE](https://www.computer.org/csdl/journal/ts), 
 [IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html), 
+[TOSEM](https://dl.acm.org/journal/tosem),
 [STVR](https://onlinelibrary.wiley.com/journal/10991688), 
 [IST](https://www.journals.elsevier.com/information-and-software-technology), 
 [EMSE](https://www.springer.com/journal/10664),
 [CAOR](https://www.journals.elsevier.com/computers-and-operations-research),
-[TOSEM](https://dl.acm.org/journal/tosem).
+[AMAI](https://www.springer.com/journal/10472).
 
 It was a great pleasure to have been a co-organizer of the [NordConsNet Workshop 2019](https://nordconsnet19.github.io/).
 
@@ -123,3 +124,4 @@ You can also find more information on my [Simula Homepage](https://www.simula.no
 *[SEA4DQ]: Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems
 *[TOSEM]: ACM Transactions on Software Engineering and Methodology
 *[AIST]: Workshop on Artificial Intelligence in Software Testing
+*[AMAI]: Annals of Mathematics and Artificial Intelligence
