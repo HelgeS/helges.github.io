@@ -58,6 +58,10 @@ Activities
 
 I am proud to be or have been a program committee member and reviewer of 
 
+*2023*
+[AIST @ ICST 2023](https://conf.researchr.org/home/icst-2023/aist-2023),
+[IJCAI 2023](https://ijcai-23.org/),
+
 *2022*
 [AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
 [AIST @ ICST 2022](https://icst2022.vrain.upv.es/home/aist-2022),
