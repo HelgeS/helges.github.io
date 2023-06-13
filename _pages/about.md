@@ -62,6 +62,7 @@ I am proud to be or have been a program committee member and reviewer of
 [AIST @ ICST 2023](https://conf.researchr.org/home/icst-2023/aist-2023),
 [ICML 2023](https://icml.cc/Conferences/2023/),
 [IJCAI 2023](https://ijcai-23.org/),
+[ISSTA 2023 - Artifact Evaluation](https://2023.issta.org/track/issta-2023-artifact-evaluation),
 [LOPSTR 2023](https://lopstr.github.io/2023/).
 
 *2022*
