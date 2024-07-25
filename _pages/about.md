@@ -106,7 +106,7 @@ I am proud to be or have been a program committee member and reviewer of
 *2019*
 [IEEE AI Testing 2019](http://ieeeaitests.com/).
 
-I am a member of the associate editorial board of [Applied AI Letters](https://onlinelibrary.wiley.com/journal/26895595).
+I was a member of the associate editorial board of [Applied AI Letters](https://onlinelibrary.wiley.com/journal/26895595) (2021-2024).
 
 I have been or currently am a reviewer for these journals: 
 [IEEE TSE](https://www.computer.org/csdl/journal/ts), 
