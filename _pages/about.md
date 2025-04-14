@@ -101,15 +101,42 @@ Activities
 ======
 
 I am proud to be or have been a program committee member and reviewer of 
-International Joint Conference on Artificial Intelligence 2023, 2025 (IJCAI), 
-European Conference on Artificial Intelligence 2024 (ECAI), 
-Principles and Practice of Constraint Programming 2022 (CP), 
-International Conference on Learning Representations 2021-2024 (ICLR), 
-Conference on Neural Information Processing Systems 2020-2022 (NeurIPS), 
-International Conference on Machine Learning 2020-2025 (ICML), 
-AAAI Conference on Artificial Intelligence 2020-2022, 2024, 2025 (AAAI), 
-IEEE International Conference on Software Quality, Reliability, and Security 2020-2021
-(QRS), IEEE International Conference on Artificial Intelligence Testing 2019-2020 (AITest).
+
+[IJCAI 2025](https://2025.ijcai.org/), 
+[ICML 2025](https://icml.cc/Conferences/2025), 
+[AIST @ ICST 2025](https://conf.researchr.org/home/icst-2025/aist-2025), 
+[ECAI 2024](https://www.ecai2024.eu/), 
+[ICLR 2024](https://iclr.cc/Conferences/2024), 
+[ICML 2024](https://icml.cc/Conferences/2024), 
+[AIST @ ICST 2023](https://conf.researchr.org/home/icst-2023/aist-2023),
+[ICLR 2023](https://iclr.cc/Conferences/2023), 
+[ICML 2023](https://icml.cc/Conferences/2023/),
+[IJCAI 2023](https://ijcai-23.org/),
+[ISSTA 2023 - Artifact Evaluation](https://2023.issta.org/track/issta-2023-artifact-evaluation),
+[LOPSTR 2023](https://lopstr.github.io/2023/),
+[TRA 2024](https://traconference.eu/),
+[AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
+[AIST @ ICST 2022](https://icst2022.vrain.upv.es/home/aist-2022),
+[CP 2022](https://cp2022.a4cp.org/),
+[ICLR 2022](https://iclr.cc/Conferences/2022/),
+[IJCAI-ECAI 2022](https://ijcai-22.org/),
+[NeurIPS 2022](https://nips.cc/Conferences/2022/),
+[SEA4DQ 2022](https://sea4dq.github.io/),
+[AAAI 2021](https://aaai.org/Conferences/AAAI-21/), 
+[ICLR 2021](https://iclr.cc/Conferences/2021/), 
+[ICML 2021](https://icml.cc/Conferences/2021), 
+[NeurIPS 2021](https://nips.cc/Conferences/2021/), 
+[QRS 2021](https://qrs21.techconf.org/), 
+[SEA4DQ 2021](https://sea4dq.github.io/),
+[SER&IP @ ICSE 2021](https://dumari.github.io/serip2021/), 
+[IEEE AI Testing 2021](http://ieeeaitests.com/), 
+[AAAI 2020](https://aaai.org/Conferences/AAAI-20/), 
+[ICML 2020](https://icml.cc/Conferences/2020), 
+[NeurIPS 2020](https://nips.cc/Conferences/2020/), 
+[QRS 2020](https://qrs20.techconf.org/), 
+[SER&IP @ ICSE 2020](https://dumari.github.io/serip2020/), 
+[IEEE AI Testing 2020](http://ieeeaitests.com/), 
+[IEEE AI Testing 2019](http://ieeeaitests.com/).
 
 I was a member of the associate editorial board of [Applied AI Letters](https://onlinelibrary.wiley.com/journal/26895595) (2021-2024).
 
