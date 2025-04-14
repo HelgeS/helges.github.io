@@ -27,8 +27,8 @@ Main Publications
 
 An up-to-date list of all publications can be found on [dblp](https://dblp.org/pid/169/5121) or [Google Scholar](https://scholar.google.com/citations?user=SMvVsioAAAAJ&hl=en&oi=ao).
 
-* **[Conference]** Gross, Dennis and **Helge Spieker** (2025a). “PCTL Model Checking for Temporal RL Policy Safety Explanations”. In: 40th ACM/SIGAPP Symposium On Applied Computing (SAC).
-* **[Conference]** Gross, Dennis and **Helge Spieker** (2025b). “Co-Activation Graph Analysis of Safety-Verified and Explainable Deep Reinforcement Learning Policies”. In: 17th International Conference on Agents and Artificial Intelligence (ICAART). doi: 10.5220/0013255500003890. [Preprint](https://arxiv.org/abs/2501.03142)
+* **[Conference]** Gross, Dennis and **Helge Spieker** (2025). “PCTL Model Checking for Temporal RL Policy Safety Explanations”. In: 40th ACM/SIGAPP Symposium On Applied Computing (SAC).
+* **[Conference]** Gross, Dennis and **Helge Spieker** (2025). “Co-Activation Graph Analysis of Safety-Verified and Explainable Deep Reinforcement Learning Policies”. In: 17th International Conference on Agents and Artificial Intelligence (ICAART). doi: 10.5220/0013255500003890. [Preprint](https://arxiv.org/abs/2501.03142)
 * **[Journal]** Mazouni, Quentin, Arnaud Gotlieb, **Spieker, Helge**, Mathieu Acher, and Benoit Combemale (2025). “Mutation-
 Guided Metamorphic Testing of Optimality in AI Planning”. In: Software Testing, Verification and Reliability.
 doi: [10.1002/stvr.1898](https://doi.org/10.1002/stvr.1898).
@@ -41,20 +41,20 @@ MDPFuzz (Replicability Study)”. In: International Symposium on Software Testin
 doi: 10.1145/3650212.3680382. [Preprint](https://arxiv.org/abs/2502.19116)
 * **[Conference]** **Spieker, Helge**, Nassim Belmecheri, Arnaud Gotlieb, and Nadjib Lazaar (2024). “Evaluating Human Trajectory Prediction with Metamorphic Testing”. In: 9th ACM International Workshop on Metamorphic Testing
 (MET). doi: 10.1145/3679006.3685071. [Preprint](https://arxiv.org/abs/2407.18756).
-* **[Conference]** Gross, Dennis and **Helge Spieker** (2024a). “Enhancing RL Safety with Counterfactual LLM Reasoning”. In: 36th International Conference on Testing Software and Systems (ICTSS). [Preprint](https://arxiv.org/abs/2409.10188)
-* **[Conference]** Gross, Dennis and **Helge Spieker** (2024b). “Safety-Oriented Pruning and Interpretation of Reinforcement
+* **[Conference]** Gross, Dennis and **Helge Spieker** (2024). “Enhancing RL Safety with Counterfactual LLM Reasoning”. In: 36th International Conference on Testing Software and Systems (ICTSS). [Preprint](https://arxiv.org/abs/2409.10188)
+* **[Conference]** Gross, Dennis and **Helge Spieker** (2024). “Safety-Oriented Pruning and Interpretation of Reinforcement
 Learning Policies”. In: European Symposium on Artificial Neural Networks, Computational Intelligence and
 Machine Learning (ESANN). [Preprint](https://arxiv.org/abs/2409.10218)
 * **[Conference]** Mazouni, Quentin, **Helge Spieker**, Arnaud Gotlieb, and Mathieu Acher (2024). “Testing for Fault Diversity
 in Reinforcement Learning”. In: 5th ACM/IEEE International Conference on Automation of Software Test
 (AST). ACM, pp. 136–146. doi: 10.1145/3644032.3644458. [Preprint](https://arxiv.org/abs/2403.15065)
-* **[Conference]** Gross, Dennis and **Helge Spieker** (2024c). “Probabilistic Model Checking of Stochastic Reinforcement
+* **[Conference]** Gross, Dennis and **Helge Spieker** (2024). “Probabilistic Model Checking of Stochastic Reinforcement
 Learning Policies”. In: 16th International Conference on Agents and Artificial Intelligence (ICAART). doi:
 10.5220/0012357700003636. [Preprint](https://arxiv.org/abs/2403.18725)
 * **[Conference]** Gross, Dennis, **Helge Spieker**, Arnaud Gotlieb, and Ricardo Knoblauch (2024). “Enhancing Manufacturing
 Quality Prediction Models Through the Integration of Explainability Methods”. In: 16th International
 Conference on Agents and Artificial Intelligence (ICAART). doi: 10.5220/0012417800003636. [Preprint](https://arxiv.org/abs/2403.18731)
-* **[Journal]** Belmecheri, Nassim, Arnaud Gotlieb, Nadjib Lazaar, and **Helge Spieker** (2024a). “Towards Trustworthy
+* **[Journal]** Belmecheri, Nassim, Arnaud Gotlieb, Nadjib Lazaar, and **Helge Spieker** (2024). “Towards Trustworthy
 Automated Driving through Qualitative Scene Understanding and Explanations”. In: SAE International
 Journal of Connected and Automated Vehicles 8. doi: 10.4271/12-08-01-0003. [Preprint](https://arxiv.org/abs/2403.16908)
 * **[Journal]** Belaid, M. B., Belmecheri, N., Gotlieb, A., Lazaar, N., _Spieker, H._ (2024). Query-driven Qualitative Constraint Acquisition. Journal of Artificial Intelligence Research (JAIR). DOI: [10.1613/jair.1.14752](https://doi.org/10.1613/jair.1.14752)
