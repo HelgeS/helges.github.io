@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Helge Spieker"
 title_separator          : "-"
 name                     : &name "Helge Spieker"
-description              : &description "PhD Student at Simula Research Laboratory"
+description              : &description "Research Scientist at Simula Research Laboratory"
 url                      : https://hspieker.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "helges/helges.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Helge Spieker"
   avatar           : "helge.jpeg"
-  bio              : "AI & ML, Constraint Programming, Software Testing"
+  bio              : "Software Testing,Trustworthy AI & ML, Constraint Programming"
   location         : "Oslo, Norway"
   employer         : "Simula Research Laboratory"
-  googlescholar    : "https://scholar.google.no/citations?user=SMvVsioAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.no/citations?user=SMvVsioAAAAJ&hl=en"
   email            : "helge (AT) simula (DOT) no"
   uri              : "https://www.simula.no/people/helge"
-  bitbucket        : "helges"
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :

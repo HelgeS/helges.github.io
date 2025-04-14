@@ -9,20 +9,54 @@ redirect_from:
 ---
 
 Hi, I'm a research scientist at [Simula Research Laboratory](https://www.simula.no/) in Oslo, Norway.
-My current research topics are self-supervised neuro-symbolic solvers for constraint satisfaction, which I research in collaboration with the University of Bonn, Germany, under the [AutoCSP project](https://autocsp.eu/) funded by the Norwegian Research Council.
+My current research topics are software testing of complex systems, like those involving AI/ML-based components, and the application of symbolic AI and ML to software testing problems.
 
-Previously, I was a PhD Student at University of Oslo and Simula within the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/)) under the supervision of [Arnaud Gotlieb](https://www.simula.no/people/arnaud), [Magne Jørgensen](https://www.simula.no/people/magnej) and [Morten Mossige](https://www.uis.no/nb/profile/1578).
+I completed my PhD (2020) at University of Oslo and Simula within the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/)) under the supervision of [Arnaud Gotlieb](https://www.simula.no/people/arnaud), [Magne Jørgensen](https://www.simula.no/people/magnej) and [Morten Mossige](https://www.uis.no/nb/profile/1578).
 
 Research Interests
 ======
 
-I'm interested in the intersection and integration of data-driven machine learning and logic-driven symbolic AI methods, such as Constraint Programming, especially with an application in the domain of software testing. 
+My research focuses on enhancing software reliability and trustworthiness at the intersection of Software
+Engineering (SE), particularly software testing, and Artificial Intelligence (AI)/Machine Learning (ML).
+Recognizing the increasing complexity of modern software, I develop effective and efficient testing methods
+crucial for creating solid and reliable systems. I focus specifically on the testing of complex systems, especially
+those with AI/ML components, and the application of AI/ML techniques to software engineering tasks.
 
 Main Publications
 ======
 
 An up-to-date list of all publications can be found on [dblp](https://dblp.org/pid/169/5121) or [Google Scholar](https://scholar.google.com/citations?user=SMvVsioAAAAJ&hl=en&oi=ao).
 
+* **[Conference]** Gross, Dennis and **Helge Spieker** (2025a). “PCTL Model Checking for Temporal RL Policy Safety Explanations”. In: 40th ACM/SIGAPP Symposium On Applied Computing (SAC).
+* **[Conference]** Gross, Dennis and **Helge Spieker** (2025b). “Co-Activation Graph Analysis of Safety-Verified and Explainable Deep Reinforcement Learning Policies”. In: 17th International Conference on Agents and Artificial Intelligence (ICAART). doi: 10.5220/0013255500003890. [Preprint](https://arxiv.org/abs/2501.03142)
+* **[Journal]** Mazouni, Quentin, Arnaud Gotlieb, **Spieker, Helge**, Mathieu Acher, and Benoit Combemale (2025). “Mutation-
+Guided Metamorphic Testing of Optimality in AI Planning”. In: Software Testing, Verification and Reliability.
+doi: [10.1002/stvr.1898](https://doi.org/10.1002/stvr.1898).
+* **[Journal]** Linløkken, M.-S., F. Meyer, C. Högström, P. Jølstad, **Spieker, Helge**, S. Guillaume, S. Hoholm, F. Wolfsperger,
+and M. Gilgien (2025). “Equivalent Fall Height and Aerial Maneuver Difficulty Both Influence Landing
+Stability on World Cup Slopestyle Rollover Jumps For Skiers and Snowboarders”. In: Scandinavian Journal
+of Medicine & Science in Sports 35.4, e70053. doi: https://doi.org/10.1111/sms.70053.
+* **[Conference]** Mazouni, Quentin, **Spieker, Helge**, Arnaud Gotlieb, and Mathieu Acher (2024). “Policy Testing with
+MDPFuzz (Replicability Study)”. In: International Symposium on Software Testing and Analysis (ISSTA).
+doi: 10.1145/3650212.3680382. [Preprint](https://arxiv.org/abs/2502.19116)
+* **[Conference]** **Spieker, Helge**, Nassim Belmecheri, Arnaud Gotlieb, and Nadjib Lazaar (2024). “Evaluating Human Trajectory Prediction with Metamorphic Testing”. In: 9th ACM International Workshop on Metamorphic Testing
+(MET). doi: 10.1145/3679006.3685071. [Preprint](https://arxiv.org/abs/2407.18756).
+* **[Conference]** Gross, Dennis and **Helge Spieker** (2024a). “Enhancing RL Safety with Counterfactual LLM Reasoning”. In: 36th International Conference on Testing Software and Systems (ICTSS). [Preprint](https://arxiv.org/abs/2409.10188)
+* **[Conference]** Gross, Dennis and **Helge Spieker** (2024b). “Safety-Oriented Pruning and Interpretation of Reinforcement
+Learning Policies”. In: European Symposium on Artificial Neural Networks, Computational Intelligence and
+Machine Learning (ESANN). [Preprint](https://arxiv.org/abs/2409.10218)
+* **[Conference]** Mazouni, Quentin, **Helge Spieker**, Arnaud Gotlieb, and Mathieu Acher (2024). “Testing for Fault Diversity
+in Reinforcement Learning”. In: 5th ACM/IEEE International Conference on Automation of Software Test
+(AST). ACM, pp. 136–146. doi: 10.1145/3644032.3644458. [Preprint](https://arxiv.org/abs/2403.15065)
+* **[Conference]** Gross, Dennis and **Helge Spieker** (2024c). “Probabilistic Model Checking of Stochastic Reinforcement
+Learning Policies”. In: 16th International Conference on Agents and Artificial Intelligence (ICAART). doi:
+10.5220/0012357700003636. [Preprint](https://arxiv.org/abs/2403.18725)
+* **[Conference]** Gross, Dennis, **Helge Spieker**, Arnaud Gotlieb, and Ricardo Knoblauch (2024). “Enhancing Manufacturing
+Quality Prediction Models Through the Integration of Explainability Methods”. In: 16th International
+Conference on Agents and Artificial Intelligence (ICAART). doi: 10.5220/0012417800003636. [Preprint](https://arxiv.org/abs/2403.18731)
+* **[Journal]** Belmecheri, Nassim, Arnaud Gotlieb, Nadjib Lazaar, and **Helge Spieker** (2024a). “Towards Trustworthy
+Automated Driving through Qualitative Scene Understanding and Explanations”. In: SAE International
+Journal of Connected and Automated Vehicles 8. doi: 10.4271/12-08-01-0003. [Preprint](https://arxiv.org/abs/2403.16908)
 * **[Journal]** Belaid, M. B., Belmecheri, N., Gotlieb, A., Lazaar, N., _Spieker, H._ (2024). Query-driven Qualitative Constraint Acquisition. Journal of Artificial Intelligence Research (JAIR). DOI: [10.1613/jair.1.14752](https://doi.org/10.1613/jair.1.14752)
 * **[Journal]** Lesoil, L., _Spieker, H._, Gotlieb, A., Acher, M., Temple, P., Blouin, A., Jezequel, J. (2024). Learning Input-aware Performance Models of Configurable Systems: An Empirical Evaluation. Journal of Systems and Software (JSS). DOI: [10.1016/j.jss.2023.111883](https://dx.doi.org/10.1016/j.jss.2023.111883) [Preprint](https://hal.science/hal-04271476)
 * **[Conference]** Belmecheri, N., Gotlieb, A., Lazaar, N., _Spieker, H._ (2024). Trustworthy Automated Driving through Qualitative Scene Understanding and Explanations. Transport Research Arena (TRA). [PDF](https://web-backend.simula.no/sites/default/files/2024-01/TRA2024_QXG.pdf)
@@ -67,44 +101,15 @@ Activities
 ======
 
 I am proud to be or have been a program committee member and reviewer of 
-
-*2023*
-[AIST @ ICST 2023](https://conf.researchr.org/home/icst-2023/aist-2023),
-[ICML 2023](https://icml.cc/Conferences/2023/),
-[IJCAI 2023](https://ijcai-23.org/),
-[ISSTA 2023 - Artifact Evaluation](https://2023.issta.org/track/issta-2023-artifact-evaluation),
-[LOPSTR 2023](https://lopstr.github.io/2023/),
-[TRA 2024](https://traconference.eu/).
-
-*2022*
-[AAAI 2022](https://aaai.org/Conferences/AAAI-22/), 
-[AIST @ ICST 2022](https://icst2022.vrain.upv.es/home/aist-2022),
-[CP 2022](https://cp2022.a4cp.org/),
-[ICLR 2022](https://iclr.cc/Conferences/2022/),
-[IJCAI-ECAI 2022](https://ijcai-22.org/),
-[NeurIPS 2022](https://nips.cc/Conferences/2022/),
-[SEA4DQ 2022](https://sea4dq.github.io/).
-
-*2021*
-[AAAI 2021](https://aaai.org/Conferences/AAAI-21/), 
-[ICLR 2021](https://iclr.cc/Conferences/2021/), 
-[ICML 2021](https://icml.cc/Conferences/2021), 
-[NeurIPS 2021](https://nips.cc/Conferences/2021/), 
-[QRS 2021](https://qrs21.techconf.org/), 
-[SEA4DQ 2021](https://sea4dq.github.io/),
-[SER&IP @ ICSE 2021](https://dumari.github.io/serip2021/), 
-[IEEE AI Testing 2021](http://ieeeaitests.com/).
-
-*2020*
-[AAAI 2020](https://aaai.org/Conferences/AAAI-20/), 
-[ICML 2020](https://icml.cc/Conferences/2020), 
-[NeurIPS 2020](https://nips.cc/Conferences/2020/), 
-[QRS 2020](https://qrs20.techconf.org/), 
-[SER&IP @ ICSE 2020](https://dumari.github.io/serip2020/), 
-[IEEE AI Testing 2020](http://ieeeaitests.com/).
-
-*2019*
-[IEEE AI Testing 2019](http://ieeeaitests.com/).
+International Joint Conference on Artificial Intelligence 2023, 2025 (IJCAI), 
+European Conference on Artificial Intelligence 2024 (ECAI), 
+Principles and Practice of Constraint Programming 2022 (CP), 
+International Conference on Learning Representations 2021-2024 (ICLR), 
+Conference on Neural Information Processing Systems 2020-2022 (NeurIPS), 
+International Conference on Machine Learning 2020-2025 (ICML), 
+AAAI Conference on Artificial Intelligence 2020-2022, 2024, 2025 (AAAI), 
+IEEE International Conference on Software Quality, Reliability, and Security 2020-2021
+(QRS), IEEE International Conference on Artificial Intelligence Testing 2019-2020 (AITest).
 
 I was a member of the associate editorial board of [Applied AI Letters](https://onlinelibrary.wiley.com/journal/26895595) (2021-2024).
 
@@ -113,6 +118,7 @@ I have been or currently am a reviewer for these journals:
 [IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html), 
 [TOSEM](https://dl.acm.org/journal/tosem),
 [STVR](https://onlinelibrary.wiley.com/journal/10991688), 
+[JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software), 
 [IST](https://www.journals.elsevier.com/information-and-software-technology), 
 [EMSE](https://www.springer.com/journal/10664),
 [CAOR](https://www.journals.elsevier.com/computers-and-operations-research),
