@@ -102,6 +102,9 @@ Activities
 
 I am proud to be or have been a program committee member and reviewer of 
 
+LOPSTR+PPDP 2025, 
+CP 2026, 
+AAAI 2026, 
 [IJCAI 2025](https://2025.ijcai.org/), 
 [ICML 2025](https://icml.cc/Conferences/2025), 
 [AIST @ ICST 2025](https://conf.researchr.org/home/icst-2025/aist-2025), 
@@ -143,7 +146,7 @@ I was a member of the associate editorial board of [Applied AI Letters](https://
 I have been or currently am a reviewer for these journals: 
 [IEEE TSE](https://www.computer.org/csdl/journal/ts), 
 [IEEE TRel](https://rs.ieee.org/publications/transactions-on-reliability.html), 
-[TOSEM](https://dl.acm.org/journal/tosem),
+[ACM TOSEM](https://dl.acm.org/journal/tosem),
 [STVR](https://onlinelibrary.wiley.com/journal/10991688), 
 [JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software), 
 [IST](https://www.journals.elsevier.com/information-and-software-technology), 
