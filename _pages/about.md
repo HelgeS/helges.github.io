@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a research scientist at [Simula Research Laboratory](https://www.simula.no/) in Oslo, Norway.
+Hi, I'm a senior research scientist at [Simula Research Laboratory](https://www.simula.no/) in Oslo, Norway.
 My current research topics are software testing of complex systems, like those involving AI/ML-based components, and the application of symbolic AI and ML to software testing problems.
 
 I completed my PhD (2020) at University of Oslo and Simula within the Certus Centre for Software Validation and Verification ([Certus SFI](http://www.certus-sfi.no/)) under the supervision of [Arnaud Gotlieb](https://www.simula.no/people/arnaud), [Magne Jørgensen](https://www.simula.no/people/magnej) and [Morten Mossige](https://www.uis.no/nb/profile/1578).
